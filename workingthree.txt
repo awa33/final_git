@@ -1,2 +1,2 @@
 Hellloooo trying to work with Staging thing, that it detects the changes or not
-
+S0, afer adding it to staging area, adding content again!
